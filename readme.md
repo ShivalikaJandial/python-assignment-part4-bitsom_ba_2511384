@@ -52,10 +52,3 @@ I built a binary classifier using **Logistic Regression**.
 
 ## Conclusion
 Even though the dataset was small, the analysis clearly shows that **attendance** and **study hours** are high predictors of success. The machine learning model provides a basic framework that could be scaled with a much larger dataset for better accuracy.
-
----
-### Submission Checklist
-- [x] Jupyter notebook with all outputs visible.
-- [x] All 8 generated plots (.png files) uploaded.
-- [x] Logic explained through comments in the code.
-- [x] Repository is public and accessible.
